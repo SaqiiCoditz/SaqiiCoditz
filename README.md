@@ -33,6 +33,4 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&border_radius=20)
-
-# Thank You For Visiting Have A Nice Coding Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&border_radius=20&margin_bottom=20)
