@@ -24,7 +24,7 @@
 
 
 # 📊 GitHub Stats:
-![Saqii Coditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqiicoditz&border_radius=20)
+
 
 
 [![Saqii Coditz GitHub Streak](https://streak-stats.demolab.com?user=saqiicoditz&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
