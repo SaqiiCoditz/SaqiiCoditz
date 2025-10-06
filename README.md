@@ -1,9 +1,13 @@
 # 💫 About Me:
 
 🔭 I’m currently working on frontend web development projects using HTML, CSS, JavaScript, and Tailwind CSS.
+
 👯 I’m open to collaborating on responsive website designs and interactive UI projects.
+
 🌱 I’m currently learning React and improving my skills in modern frontend frameworks.
+
 💬 Ask me about JavaScript, Tailwind CSS, Bootstrap, or creating clean, responsive layouts.
+
 ⚡ Fun fact: I love building creative web interfaces and sharing my coding journey on my YouTube channel — saqii coditz.
 
 ## 🌐 Socials:
